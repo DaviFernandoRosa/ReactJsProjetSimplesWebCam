@@ -51,8 +51,6 @@ function App() {
                  <button className='btnStart' onClick={startVideo}>Start</button>
                  )}      
            </div>
-
-
     </div>
   );
 }
