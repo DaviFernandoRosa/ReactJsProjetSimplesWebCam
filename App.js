@@ -30,7 +30,6 @@ function App() {
       video.srcObject.getTracks()[0].stop();
    };
 
-
   return (
     <div className="App">
         <h2 className='title'>CAPTURA WEBCAM</h2>
